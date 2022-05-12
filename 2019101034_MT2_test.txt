@@ -1,0 +1,1306 @@
+0.05918777499091382
+quand je suis ai dit   j ai ai           <eos>  0.12500000000000003
+j ai ai une femme             <eos>  0
+elle était un une de de de de la <eos>  0
+maintenant   il a dit                                                                     <eos>  0.09803921568627452
+et tout   j ai ai dit   je suis ai <eos>  0.16666666666666669
+mon mon père de la de la <eos>  0
+et je ai une un de de de de de de <eos>  0.05555555555555554
+ce que je je je je pense que c est <eos>  0
+mais je ne pouvais pas pas de <eos>  0
+avec les données   nous pouvons                               de la <eos>  0.07142857142857141
+  maniac chiat   j ai                                 <eos>  0.11111111111111109
+en tanzanie                             <eos>  0.04000000000000001
+a la mère a été de de de de de <eos>  0
+mais la                           <eos>  0.14285714285714285
+je ai vérifié <eos>  0
+j ai dit                                                   <eos>  0.03125
+et après mon père                         <eos>  0.11764705882352941
+les     la             de la   de la <eos>  0.08333333333333333
+c est               <eos>  0
+c était la première                 <eos>  0
+oui   il n y a pas de de de de de de de de de de de de de de de <eos>  0.07142857142857141
+cette jeune fille   c est une chose   et         et c est une <eos>  0.043478260869565216
+c était notre détecteur   j ai ai rencontrée de la     et je ai ai fait                                       j ai ai de la <eos>  0.0588235294117647
+il y a des de de de de de de de <eos>  0.13333333333333333
+nous ne sommes pas de                                           <eos>  0.05263157894736841
+vous êtes vous vous vous vous vous vous <eos>  0
+je veux dire que c est une chose <eos>  0
+oh oh             <eos>  0.12500000000000003
+si vous regardez les                                                   <eos>  0.021276595744680854
+donc je vous vous                                                                                              0.012500000000000006
+ce n est pas de         <eos>  0.16666666666666669
+nous savons que c est que nous avons de la   de la de la <eos>  0.05000000000000001
+cette opposition   vous                                                 ne pas pas de <eos>  0.06666666666666667
+les gens sont des des gens   et ne sont pas <eos>  0.07692307692307693
+c est ce que je veux dire que c est <eos>  0.10000000000000002
+nous savons que vous pouvez voir que nous avons de la   de la de de de de de de de <eos>  0.047619047619047616
+nous savons que nous avons besoin de la de de de de de de de de de de de de la <eos>  0
+on peut peut être que les gens qui est un de de la   de la   de la   de la     et les de   et les de de la <eos>  0.041666666666666664
+nous savons que nous avons                                                     nous avons des de <eos>  0.0625
+votre séquence de votre tête de votre ventilateur de votre propre <eos>  0.0625
+mais quand nous avons nous nous avons nous nous avons nous nous avons nous nous avons nous nous avons nous nous avons nous nous nous nous nous <eos>  0
+c est une un   de la                       de la <eos>  0.047619047619047616
+mais ce que nous avons que c est que nous avons fait que nous avons de la     et nous nous <eos>  0.060606060606060615
+mais ce n est pas de de de <eos>  0.08333333333333333
+les radiologues sont des des de de la <eos>  0
+les étudiants ont été à la de <eos>  0
+les machines étaient des des de               <eos>  0
+c est la <eos>  0
+a une autre                   nous   <eos>  0.05555555555555554
+les vous dites                   ne vous pas de     <eos>  0.0909090909090909
+les gens ne pas pas <eos>  0
+donc vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0
+les ne pleure pas pas <eos>  0
+vous avez vu une un de   et les gens   et des gens <eos>  0.09523809523809525
+et puis                                                                                                  0.015873015873015876
+ou ils ont                                         et je ne sais pas <eos>  0.03571428571428572
+mais quand je suis                                       <eos>  0.08695652173913045
+j ai ai une femme de   de la de de <eos>  0.07142857142857141
+et puis il était en fait   et de la   de la   de la <eos>  0.043478260869565216
+tout le monde était un                                   et de la <eos>  0.060606060606060615
+je ne voulais pas de de de de de de de de de   je je ai ai de mon père   je je ai ai de mon histoire de <eos>  0.05555555555555554
+les gens sont des <eos>  0
+comment ce n est pas <eos>  0
+ok     ne le pas de la     les gens de la <eos>  0.13043478260869565
+quand les médecins                                                                 de la   de la <eos>  0.04651162790697675
+les choses sont des                                                   <eos>  0.06451612903225806
+les étudiants étaient des de de de de de de ne pas pas <eos>  0
+c est ce que vous ne peut pas pas de vous ne peut pas <eos>  0
+il ne peut pas pas que vous pouvez vous que vous pouvez vous   vous pouvez pas de vous ne peut pas <eos>  0.02941176470588235
+avec moi   j ai ai dit   je me suis demandé   je me suis demandé   je me suis demandé   je me suis demandé   je me suis demandé   <eos>  0.021276595744680854
+je veux parler montrer que je ne le pas de <eos>  0
+voici une photo de   vous pouvez voir <eos>  0
+c est une un de de la <eos>  0.2
+en éteignant   mon ami                               <eos>  0.04000000000000001
+elle a dit                                                           <eos>  0.02777777777777778
+parce que elle était un     et               et de la <eos>  0.08333333333333333
+et vous avez les de de                 <eos>  0.11764705882352941
+elle a dit                                         vous ne vous pas de <eos>  0.03225806451612903
+et bien   une femme                                       <eos>  0.041666666666666664
+elle a été                                                                                 et <eos>  0.05454545454545455
+elle était vraiment                                       et je me suis <eos>  0.13333333333333333
+qui est ce que je ai de la de de de <eos>  0.07142857142857141
+en fait   c est une     je ne sais pas     je suis ai <eos>  0.07999999999999999
+mais ce qui m a permis de la           <eos>  0.09523809523809525
+a une nouvelle     j ai             <eos>  0.05555555555555554
+j ai ai eu un de de de de de de de de de de de de de de de de de <eos>  0.06666666666666667
+donc   les premiers de                                       <eos>  0.0625
+tout le abord je suis une créature   et je ne le pas de la <eos>  0.13043478260869565
+ce que je voudrais vous que vous           vous ne peut pas <eos>  0.07692307692307693
+il a a un un de de de de de de de de de <eos>  0.0588235294117647
+je ne veux pas pas de                                           n est pas de la <eos>  0.06451612903225806
+maintenant   c est la que vous voyez                         <eos>  0.07407407407407407
+je ne sais pas                                     n est pas pas de la <eos>  0.054054054054054064
+c est la <eos>  0
+j ai grandi à la de de la <eos>  0.10000000000000002
+deuxièmement   je crois que c est une problème <eos>  0.14285714285714285
+les gens sont des                                                                           <eos>  0.04000000000000001
+c est une de de la     et               de la <eos>  0.0909090909090909
+les choses étaient des de                       <eos>  0.10526315789473682
+donc   les                   <eos>  0.0588235294117647
+mais ce que vous ne   pas               vous ne vous pas <eos>  0.043478260869565216
+les choses de personnes                                       <eos>  0.03225806451612903
+c est est pas pas de               <eos>  0.0588235294117647
+aucune religion   vous ne vous pas de         vous ne vous pas de     vous ne vous pas <eos>  0.043478260869565216
+maintenant   c était une     et                                         et de la <eos>  0.030303030303030304
+je ai grandi dans un monde de la <eos>  0
+vous pouvez voir que vous pouvez   vous pouvez                         vous pouvez vous de la <eos>  0.0625
+mais ce que je ne le pas de                     de la   de la <eos>  0.07317073170731705
+les étudiants sont des                                       vous vous   vous <eos>  0.041666666666666664
+il a dit que vous pouvez vous vous pouvez vous   vous pouvez vous   vous pouvez vous   vous vous vous vous vous vous vous vous <eos>  0.02941176470588235
+donc qu est ce que il y a <eos>  0
+eh bien   nous savons que c est une un de de de la   de la   de la   de la <eos>  0.0909090909090909
+c est à ce que vous pouvez un un <eos>  0.07692307692307693
+cette jeune fille de la de de de de de de de <eos>  0.05555555555555554
+et                       <eos>  0.0625
+elle a été à la de de la <eos>  0.08333333333333333
+elle a dit                                                         <eos>  0.10256410256410255
+maintenant ce que c est que je pense que c est que je pense que c est une chose <eos>  0.07142857142857141
+ils sont des des <eos>  0
+ce sont des des des de             <eos>  0.047619047619047616
+une exemple     est une un de   de la     et la la <eos>  0.04545454545454546
+par exemple                                                                   <eos>  0.024390243902439022
+donc voici une autre exemple est un un <eos>  0.05000000000000001
+c est ce que je ai fait que je pense que c est <eos>  0.06666666666666667
+c est ce que                                                                     ne pas pas de   <eos>  0.0588235294117647
+ne peut pas pas de de de de de de de de de de <eos>  0.0588235294117647
+vous commencez à la   <eos>  0
+merci <eos>  0
+en la prochaine étape   nous avons   nous avons       nous avons       nous avons     nous avons de la     nous nous nous nous nous nous nous nous nous <eos>  0.06976744186046512
+cette répétition est la                                                                                 <eos>  0.043478260869565216
+mais je je pense que il y a un peu de de de <eos>  0.1875
+je ai ai que je ne le pas de <eos>  0
+bien sûr   je vous                                                 <eos>  0.06666666666666667
+les vous pouvez voir les de de la   de la   de la   de la   <eos>  0.12500000000000003
+donc   cette statistique est un peu de   <eos>  0.18096748360719192
+mais notre système de la   nous avons nos vies <eos>  0.0909090909090909
+comment pouvons vous pouvez voir que les gens   et les de   et les de   <eos>  0.08695652173913045
+en tanzanie                                                   <eos>  0.03125
+en particulier   une certaine façon de vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0.04651162790697675
+parce que les gens ont des à la des gens de personnes âgées   et les gens   et les gens de la <eos>  0.10344827586206899
+vous pouvez voir que vous pouvez                           vous pouvez <eos>  0.043478260869565216
+les vous de la de de la de de la <eos>  0
+en voici les     nous           <eos>  0.07692307692307693
+mais en fait   les gens   les     et les de de <eos>  0.0588235294117647
+je suis ai fait de la de de de de de de de de de <eos>  0.0909090909090909
+mais je ne veux pas pas pas de ce que vous ne <eos>  0.0909090909090909
+ce que je pense que c est une chose <eos>  0
+c est une un de de de de vous pouvez un un de de de vous pouvez vous pouvez un peu de <eos>  0.060606060606060615
+les choses que nous avons       nous     nous     nous     nous   nous     nous   nous   nous nous nous nous nous nous nous nous <eos>  0.024390243902439022
+qu est ce que les gens <eos>  0
+en tanzanie                                         et <eos>  0.04545454545454546
+eh bien   une fois   il y a des milliers de personnes qui sont des     et                     de la <eos>  0.028571428571428577
+ce que nous avons                           de la <eos>  0.06896551724137931
+et en quoi les     nous                                                   nous avons des de de la <eos>  0.075
+donc les gens peuvent être des de de la de de la de de la de de la de de la <eos>  0
+les étudiants peuvent faire                                                                                     <eos>  0.06557377049180328
+et ce qui est que c est que nous est un   de la                       de la <eos>  0.07894736842105263
+si vous pouvez voir que nous avons de la   de la   de la   de la     nous avons de la     nous avons de la   nous nous nous nous <eos>  0.05128205128205127
+aujourd hui nous nous nous nous nous nous nous nous nous nous avons   nous avons   nous avons   nous avons nous nous avons <eos>  0.03571428571428572
+merci <eos>  0
+donc j ai donc été condamné             de la <eos>  0.08695652173913045
+quand je suis ai dit                                     <eos>  0.13043478260869565
+mais mon mon père   n a pas de <eos>  0.18181818181818182
+mon histoire de vous de la de de de de <eos>  0
+après tout le monde   les     les                     de la     les <eos>  0.0909090909090909
+il ne a pas de de de de de de de <eos>  0.15384615384615385
+mais mon père était une était un de de <eos>  0.0909090909090909
+c est mon ami de de de <eos>  0.08333333333333333
+une fois   j ai ai un un   et je ai ai vu un peu de de de de de de <eos>  0.12121212121212123
+j ai eu la première de de la de la de la <eos>  0.10526315789473682
+mais ce n est pas pas pas <eos>  0.2222222222222222
+aucune religion n était pas de <eos>  0.2
+sauf mon ami                             <eos>  0.10526315789473682
+mais ce qui était été   de la   de la   <eos>  0.0588235294117647
+mon mon dieu est mon bébé <eos>  0
+j ai ai ai eu chanceux de la de de de de de de de de de de de de de de <eos>  0
+mais c est une chose <eos>  0.16666666666666669
+j ai donc commencé à la de de <eos>  0.11111111111111109
+personne ne m a pas de   <eos>  0.12383969996431167
+je suis allée à la <eos>  0
+j ai ai commencé à la                                                                                          0.04651162790697675
+les étudiants   j ai                                                         <eos>  0.054054054054054064
+les son père         <eos>  0.11111111111111109
+les                   <eos>  0
+c est ce pas de         <eos>  0.0909090909090909
+le premier est est ce que c est <eos>  0
+c est une un de de la <eos>  0.2
+mais les étudiants   vous                   vous vous <eos>  0
+  oh   j ai dit                     <eos>  0.04545454545454546
+donc il s il a été condamné de de de de de de de de de de de de de de <eos>  0
+a une nouvelle méthode de de la de de de de <eos>  0.05000000000000001
+il s agit de <eos>  0.12500000000000003
+par exemple   je pense que c est une                   est ce que <eos>  0.13043478260869565
+il ne a pas de                   ne pas pas pas de <eos>  0.0909090909090909
+une un de de un peu de <eos>  0
+les n est pas de la <eos>  0.2222222222222222
+c est une un de de la <eos>  0
+il y a des de de de de de de de de <eos>  0
+les radiologues ont été un de de de de de de de <eos>  0.0625
+donc   je ne sais pas                               <eos>  0.06896551724137931
+j ai donc commencé à la de <eos>  0.18181818181818182
+ils ont                                                                 <eos>  0.02272727272727273
+                                                                                                     0.010752688172043006
+pour les les     les     les     les <eos>  0.07692307692307693
+pour les les     les     les     les     et les des autres <eos>  0.09523809523809525
+donc   vous vous vous vous               vous vous vous vous vous <eos>  0.0909090909090909
+le lendemain                                                             <eos>  0.05263157894736841
+par exemple   c est une                                 <eos>  0.09374999999999999
+                        <eos>  0
+les enfants ont été à la de de la   de la   de la <eos>  0
+je ne suis pas de de de de de <eos>  0
+être un un   de la     mais il ne peut pas pas <eos>  0.13636363636363635
+je ne voulais pas pas de la de de la de de la <eos>  0.09523809523809525
+les systèmes sont des                                           <eos>  0.06666666666666667
+même siri une ruche   vous vous vous vous vous <eos>  0
+alors   une femme                                         <eos>  0.03333333333333333
+donc vous vous vous vous vous vous <eos>  0
+merci <eos>  0
+merci <eos>  0
+merci <eos>  0
+alors j ai ai commencé à la                                         et   était un <eos>  0.10714285714285714
+elle a été un   de la     et                       de la <eos>  0.03846153846153846
+et je ai ai eu la chance de la de de de de de de de <eos>  0.04545454545454546
+donc   une fois   j ai                                   <eos>  0.03448275862068965
+quand les premiers     j ai                                   <eos>  0.08823529411764706
+et puis je ai ai dit <eos>  0
+j ai grandi   et                           <eos>  0.047619047619047616
+tout le monde de la <eos>  0
+et j ai grandi à la                                         <eos>  0.06666666666666667
+donc   une fois                     <eos>  0.05000000000000001
+j ai ai demandé                                           je vous ai   <eos>  0.0588235294117647
+et je suis ai une créature de mon père <eos>  0
+je ne suis pas de la de de de <eos>  0.16666666666666669
+je ne sais pas pas de ce que je ne sais pas <eos>  0
+je suis allée <eos>  0
+je ne pouvais pas pas de de de de <eos>  0.08333333333333333
+je veux dire   c est une chose   <eos>  0.08333333333333333
+je ne suis pas de <eos>  0.14285714285714285
+mais bien sûr   c est que                                                   <eos>  0.03448275862068965
+les moi vous <eos>  0
+c est est est est est est est est est <eos>  0
+nous savons que les choses <eos>  0
+nous savons que nous avons besoin de la <eos>  0
+nous savons que les choses de la   de la de de la <eos>  0
+et pourtant   je ne suis pas un un de de     je ne vous pas de de de de de <eos>  0.11764705882352941
+pour la première                             de la <eos>  0.06896551724137931
+en fait   nous n avons pas de               de la   de la   de la   de la <eos>  0.07692307692307693
+et bien   ne ne pas pas pas pas <eos>  0.11111111111111109
+non   n a pas de     <eos>  0.07692307692307693
+personne ne marcherait pas <eos>  0
+il y a des milliers de                                                   nous avons   nous avons <eos>  0.02083333333333333
+non     n est pas                                                                 <eos>  0.023255813953488372
+cette jeune fille                                                                         <eos>  0.08163265306122448
+et nous avons                 nous     <eos>  0.07142857142857141
+nous avons un une de de de de de de <eos>  0.0909090909090909
+nous avons un une de de de de <eos>  0
+j ai grandi dans le monde   <eos>  0
+nous avons le le <eos>  0
+je veux dire                   et ils ont des <eos>  0.047619047619047616
+je ne veux pas pas de la     mais il n y a pas de de <eos>  0.05555555555555554
+revenons à la les     et                     <eos>  0.05555555555555554
+c est est est est est est est est est est est est est est est est est est est est est est est est est <eos>  0
+je ne veux pas pas de                               de la   <eos>  0.03448275862068965
+quand nous nous nous nous nous nous nous nous nous <eos>  0
+nous avons un une de de de de de de de de de de la   de la   nous nous nous nous nous nous nous nous <eos>  0.03333333333333333
+ce que les choses   nous                           nous         nous <eos>  0.03846153846153846
+les                       de la <eos>  0.05000000000000001
+en fait                                                                                                  0.020202020202020207
+tout ce que c est une chose de la   de la   de la <eos>  0.0909090909090909
+et c est la première de                                                                       <eos>  0.06382978723404255
+maintenant   les premiers   et               <eos>  0
+vous savez   les gens   les                         <eos>  0.10526315789473682
+mais vous ne pouvez pas pas de ce que est ce que c est un problème <eos>  0
+les est est la <eos>  0
+c est une très puissant   <eos>  0.0909090909090909
+et qu est ce que nous <eos>  0
+les deux dernières années <eos>  0.16666666666666669
+les deux choses <eos>  0
+les les sont des                     <eos>  0.07142857142857141
+les deux choses <eos>  0
+c est pourquoi est ce que c est <eos>  0
+après avoir des de de la   de la <eos>  0
+quand les gens                                               <eos>  0.030303030303030304
+il y a                                                         <eos>  0.05000000000000001
+il a dit    «             <eos>  0.16666666666666669
+notre système est que nous avons                                                                                          0.01666666666666667
+en                           <eos>  0.047619047619047616
+nous avons avons nous nous nous nous sommes                           nous avons         nous avons     nous nous avons <eos>  0.025641025641025644
+on a les de de de de de de de de <eos>  0.07692307692307693
+aujourd hui   je pense que c est une chose que nous ne faisons pas <eos>  0.05555555555555554
+et les les sont des des de de de de de <eos>  0.0625
+nos vies ont nous des de de nos ancêtres de nos vies <eos>  0.08695652173913045
+les systèmes de la     les   de la <eos>  0.11111111111111109
+les parents ont des à l <eos>  0
+une fois   une femme                                 et était un <eos>  0.04000000000000001
+et ce n est pas                   est ce pas pas pas pas pas pas de <eos>  0.07142857142857141
+parce que c est une       <eos>  0
+le problème n est pas de la de de la <eos>  0
+mais il a dit   il y a des milliers de l eau   et la <eos>  0.11764705882352941
+il y a de de                     et il y a <eos>  0.043478260869565216
+                            de la <eos>  0.06666666666666667
+le réponse est est un un <eos>  0
+le problème est un nous   nous avons     de la <eos>  0.05263157894736841
+en fait   nous nous   nous avons   nous avons   nous avons nous nous avons <eos>  0.06666666666666667
+et c est pourquoi                                   <eos>  0.03571428571428572
+les les sont des des de de de de de de <eos>  0
+je vais vous montrer une je ai ai fait une chose de   je je ai ai fait un   de la <eos>  0.10000000000000002
+une réplique de une femme   la   de la   de la     et de la     et de la   de la <eos>  0.07692307692307693
+pour une une de de la <eos>  0
+elle a été                                           et je ai ai <eos>  0.08823529411764706
+parce que je crois que c est une chose <eos>  0
+qu est ce que             <eos>  0.10000000000000002
+c est est ce important <eos>  0
+c est est ce que c est une <eos>  0
+maintenant   est un un de de la <eos>  0
+elle est le pouvoir de la de de la <eos>  0
+elle a                                                                                   nous         nous avons  0.027397260273972598
+david   les           <eos>  0.11111111111111109
+maintenant vous vous vous                                                                                       <eos>  0.03846153846153846
+c est une chose <eos>  0
+mais qu est ce que nous avons       nous ne pouvons pas <eos>  0.04545454545454546
+je ne voulais pas de                               <eos>  0.0909090909090909
+et c est une       nous avons nous <eos>  0.14285714285714285
+nous avons des un de <eos>  0
+je veux dire   c est que nous avons           nous           nous <eos>  0.07999999999999999
+les étudiants                     <eos>  0
+donc ils ne sont pas de                             <eos>  0.09523809523809525
+revenons à la les de de la de de la <eos>  0
+quand les gens                                   <eos>  0.04545454545454546
+mais j ai grandi                                                       <eos>  0.075
+oh oh   vous savez quoi     <eos>  0
+donc   les gens   les                               <eos>  0.04000000000000001
+mais ce que je ne   pas                                                                                        0.016393442622950817
+nous sommes concentrés <eos>  0
+il a dit   mais il n y a pas de de de de de de de de de de de de <eos>  0.07692307692307693
+c est une                                               c est ce que nous avons   <eos>  0.05263157894736841
+il ne a pas de de de de de de de de de <eos>  0
+vous savez   le     les gens   et des autres   <eos>  0.14285714285714285
+les étudiants sont des des de de la <eos>  0.16666666666666669
+et   maintenant   c est une de de la <eos>  0.0625
+et est ce que ça marche <eos>  0
+ce que nous devons faire ça   et c est une chose de la     et nous <eos>  0.15151515151515155
+eh bien   il y a un problème <eos>  0.15
+nous avons besoin de la <eos>  0
+mais je ai ai fait <eos>  0.11111111111111109
+alors nous avons nous nous   nous nous nous nous nous nous nous nous nous nous nous nous nous <eos>  0.047619047619047616
+les radiologues étaient   <eos>  0
+les nuages broutent un     et       <eos>  0.16666666666666669
+et si il s appelle                           <eos>  0.03846153846153846
+nous sommes des à la <eos>  0
+merci <eos>  0
+je suis allée à la de de de de de de de de de de de de la   de la   de la   de la   de la <eos>  0.08823529411764706
+c était une un de <eos>  0
+la réponse était la <eos>  0
+les étudiants sont des     nous avons           nous avons         nous avons         nous avons       nous avons nous nous avons nos vies <eos>  0.05555555555555554
+nous avons des notre planète <eos>  0
+c était une fois   et j ai une femme   et j ai de la   de la   <eos>  0.09523809523809525
+son histoire de la   de la                           de la <eos>  0.07894736842105263
+et j ai ai dit             je suis ai dit   <eos>  0.15384615384615385
+les étudiants étaient des                                       <eos>  0
+cette jeune fille   et il y a un de de <eos>  0.10000000000000002
+qui est le que nous avons <eos>  0
+en quoi   nous avons                       nous <eos>  0.041666666666666664
+les premiers de de la     les     et des autres <eos>  0
+en voici une des                                                     de la <eos>  0.06451612903225806
+je voulais vous montrer à la de de <eos>  0
+je voulais partager le de de la <eos>  0
+qu est ce que c est que la est un un <eos>  0.12500000000000003
+j ai donc décidé de la de de <eos>  0.0909090909090909
+j ai ai eu un     j ai ai                                       et je ai ai <eos>  0.054054054054054064
+je ai ai commencé à la <eos>  0
+j ai donc des de de de de de <eos>  0
+je ne suis pas de                   <eos>  0.07692307692307693
+et je ai ai commencé à la de de de de <eos>  0.0909090909090909
+c était une un de de de de de <eos>  0.0909090909090909
+la premier de la <eos>  0.10000000000000002
+c est ce que                                                     <eos>  0.03125
+la premier de la de la <eos>  0.11111111111111109
+je ne les gens ne sont pas de de de de de de de de de de de de de de de de de de de de de <eos>  0.03333333333333333
+puis il y a des trafics <eos>  0.2857142857142857
+les la fin de la                                         <eos>  0.10344827586206899
+vous êtes assis   vous       vous   vous   vous   vous <eos>  0.043478260869565216
+c est le pouvoir de la     mais il est est ce pas de la <eos>  0.06666666666666667
+c est une chose de la <eos>  0
+et puis l éradication de la est un un de de la     et la la est un un <eos>  0
+je l ai fait de la de de <eos>  0.11111111111111109
+quand vous vous vous vous vous vous vous un peu de de vous pouvez vous pouvez voir une vous de vous pouvez vous pouvez vous vous pouvez vous <eos>  0.03125
+il ne a pas de <eos>  0.16666666666666669
+c est une de de la de de la <eos>  0
+il est à la de de <eos>  0
+et puis il y a des consolations <eos>  0.15922918012750872
+vous avez menti                                                                                                0.013333333333333338
+j ai les de de la   de la   de la   de la   de la   de la   de la   de la   de la <eos>  0.030303030303030304
+ils sont des des des <eos>  0
+si nous ne ne pas pas pas pas de de de de   mais nous ne les pas de la     mais nous ne le pas de la <eos>  0.09677419354838708
+les avons commencé à la de de de de de de de de de de de de <eos>  0.047619047619047616
+les étudiants sont des <eos>  0.2857142857142857
+si nous ne pouvons pas de                                         nous nous   nous nous avons des <eos>  0.08108108108108107
+je ne suis pas de           ne pas pas <eos>  0.07692307692307693
+et puis il y a   de             <eos>  0.13333333333333333
+en fait   nous avons de la   de la   de la   de la <eos>  0.05000000000000001
+nous ne avons pas de                                 nous avons nos vies <eos>  0.07999999999999999
+nous avons sommes nous           nous         nous         nous nous nous   nous nous nous   nous nous   nous nous <eos>  0.060606060606060615
+donc je veux parler de la de de la   de la   de la   de la   de la     et de la     et de la   de la <eos>  0.02702702702702703
+en fait   je ne le pas de la   <eos>  0.0909090909090909
+ils sont des des     les   <eos>  0.07692307692307693
+ils ont été un des de de <eos>  0
+vous connaissez en fait   les gens <eos>  0
+et les nos vies   nous <eos>  0
+ils sont des des <eos>  0
+le problème   nous           nous               nous         nous   nous nous nous nous nous nous <eos>  0.030303030303030304
+les années   je   ai                                                                         je ai ai de la <eos>  0.05263157894736841
+et je ai ai commencé à la de de de de de de de de de de de de de de de <eos>  0.0909090909090909
+et il a dit                                 <eos>  0.08333333333333333
+nous allons commencer à la <eos>  0
+c était une un de   et je ai ai une un de de   et je ai ai de la <eos>  0.07999999999999999
+elle a dit                       nous   nous <eos>  0.10526315789473682
+je veux parler montrer ce que je veux dire <eos>  0
+nous nous sentons exciserons <eos>  0
+mais en fait   nous nous avons nous nous avons nous nous avons nous nous avons nous nous avons nous avons nous avons nous avons nous avons nous nous avons nous nous nous nous nous avons <eos>  0.02702702702702703
+et nous pouvons nous faire des choses qui nous permettent de nous pouvons nous nous nous   nous pouvons nous   nous pouvons nous   nous pouvons nous   nous pouvons nous   nous pouvons nous     nous avons de la     nous   nous     nous  0.019417475728155338
+les     nous                               nous   nous   <eos>  0.03846153846153846
+c est une très simple <eos>  0
+en                                                           vous vous   vous   <eos>  0.024390243902439022
+imaginez une histoire de vous vous <eos>  0
+très     il y a t il <eos>  0.14285714285714285
+pas ne pas pas <eos>  0
+bg   c est une chose   <eos>  0.12500000000000003
+mon mon père   je me suis assise                       <eos>  0.12500000000000003
+il m a demandé   il y a un de de                 <eos>  0.14814814814814814
+tandis que j ai ai dit                     <eos>  0.10526315789473682
+regardez <eos>  0
+c est                     <eos>  0.06666666666666667
+malheureusement   n est pas pas de la <eos>  0.12500000000000003
+ce n est pas de       vous ne peut pas pas <eos>  0.13333333333333333
+personne ne a pas de                               ne pas pas pas de     <eos>  0.1388888888888889
+il s appelle                         <eos>  0.05000000000000001
+je suis vous                                                             ne vous pas pas pas pas pas pas <eos>  0.042553191489361694
+une un de de un chrétien <eos>  0
+il y a des milliers de personnes                                       <eos>  0.03125
+les gens ont des <eos>  0
+et vous avez dit    « non   je ne vous pas pas pas <eos>  0.13043478260869565
+je je je pense que je veux dire   c est ce que je ne   pas de <eos>  0.10714285714285714
+si il y avait un ans   j ai         <eos>  0.16666666666666669
+je suis suis dit                               <eos>  0.043478260869565216
+si vous ne vous pas             vous ne <eos>  0
+les               <eos>  0.08333333333333333
+j ai grandi à la de de de de de de de de de de <eos>  0
+je ai ai que je voulais être que je ai ai une un de de de de de de de <eos>  0
+une autre                                         <eos>  0.0625
+mon esprit   vous pouvez       vous vous vous vous vous vous vous <eos>  0.047619047619047616
+donc   mon père   j ai           <eos>  0.0625
+si mon père   j ai                                                                         <eos>  0.061224489795918366
+mon mon ami de mon ami   j ai été   de la     et je me suis allée à la <eos>  0.2
+une autre exemple   il y a un un de de de de de de de de de de de de <eos>  0.13043478260869565
+mon père   j ai                                                               <eos>  0.0588235294117647
+les                                   <eos>  0.04000000000000001
+il y a a des de de                 <eos>  0.15789473684210523
+je ne voulais pas pas de la de de de de <eos>  0.11764705882352941
+c était la première                                       <eos>  0.02941176470588235
+les gens ne pas pas de de de de de de de de <eos>  0
+ils ont                             <eos>  0.0625
+je suis ai appris que je ai ai fait que je ai ai fait un de de   et je l ai de la <eos>  0.0588235294117647
+j ai grandi à la <eos>  0.12500000000000003
+oui               <eos>  0.11111111111111109
+mon esprit n importe quoi pas de                 <eos>  0.09523809523809525
+je ai ai pensé que je ai ai que je ai ai de ce que je peux <eos>  0
+et je suis allé                                   je me suis demandé <eos>  0.13333333333333333
+et quand je suis ai dit                         <eos>  0.05000000000000001
+j ai ai rencontrée de un de de de de de de de de de de de de de   et je suis ai commencé à la de de de de de de <eos>  0.03225806451612903
+la première de mon ami   j ai                                                                                      0.0746268656716418
+mais une fois   une femme de la <eos>  0
+je ai ai dit                                   je ai ai     <eos>  0.06666666666666667
+et je je pense que c est que <eos>  0
+mon mon ami                                                         <eos>  0.08108108108108107
+je suis allé à la                                         <eos>  0.13513513513513517
+j ai été les de de la   de la <eos>  0
+tout le monde <eos>  0.16666666666666669
+j ai ai commencé à la     j ai ai                       et je suis allée à la <eos>  0.10714285714285714
+chaque soir   j ai grandi à la                   <eos>  0
+mais je ne suis pas pas <eos>  0.11111111111111109
+en                                       <eos>  0.04000000000000001
+c est une un de de un de de la <eos>  0.07692307692307693
+j ai ai une un de de <eos>  0.10000000000000002
+j ai donc de la de de de de de la   de la <eos>  0.05555555555555554
+je ai ai commencé à la <eos>  0
+les               <eos>  0
+les ai dit   je ne sais pas <eos>  0.08333333333333333
+je ne le pas pas de <eos>  0.12500000000000003
+les radiologues étaient des <eos>  0.14285714285714285
+je veux dire   je   ai                                                                 <eos>  0.04000000000000001
+je ai ai dit                             <eos>  0.04000000000000001
+c était une un de   et je ai ai commencé à un de de de de de de de de de de <eos>  0.07999999999999999
+les était la <eos>  0
+les radiologues ont été à la de de de de de de de de <eos>  0.15789473684210523
+nelson mandela   j ai                                   <eos>  0.13793103448275862
+mon père était mon père <eos>  0
+et je ai ai appris que je suis                             <eos>  0
+mais                                                                   de la   de la   <eos>  0.05000000000000001
+ils ne sont pas de <eos>  0
+mais il y a des de de <eos>  0.10000000000000002
+j ai commencé à la                                         <eos>  0.037037037037037035
+donc j ai une créature <eos>  0
+mon mon père   j ai ai   de la     j ai ai                                               j ai ai   de la     j ai ai de  0.08620689655172413
+j ai ai eu la chance de                                   <eos>  0.07142857142857141
+certains de mes excuses de ne pas pas de de de de de de <eos>  0
+je ne vous pas de                                 ne pas pas de de de   mais vous ne <eos>  0.054054054054054064
+en 2009   j ai                                         et je l ai <eos>  0.023255813953488372
+notre système nerveux est que les est de la de de de de de la de de la   de la   de la <eos>  0.0588235294117647
+les                         de la <eos>  0.05555555555555554
+mon père de la de la <eos>  0.11111111111111109
+j ai grandi dans un années   et     de la   de la <eos>  0.13636363636363635
+j ai ai demandé                                         et je me suis <eos>  0.11111111111111109
+j ai donc demandé                                 <eos>  0.03448275862068965
+elle a dit                           <eos>  0.10526315789473682
+et nous avons avons demandé   <eos>  0.11111111111111109
+j ai donc décidé de la                                                       <eos>  0.11764705882352941
+j ai ai dit                               <eos>  0.04545454545454546
+mais ce ne peut pas pas de                                       <eos>  0.10714285714285714
+une fois   une femme de la   de la   de la   de la   de la <eos>  0.07142857142857141
+les gens ne contenait pas de de de de de de de de de de de de de de <eos>  0.041666666666666664
+d abord   la fin de la   de la <eos>  0.07692307692307693
+je me suis dit                       <eos>  0.041666666666666664
+      est ce   <eos>  0
+mon père             <eos>  0
+qu est ce que vous <eos>  0.16666666666666669
+nous avons besoin de ce que nous <eos>  0
+une fois                                 <eos>  0.04000000000000001
+les est est ce que l on <eos>  0
+si vous êtes un pas de de de de de de de de de ne pas pas <eos>  0
+les tempos sont des des des                     <eos>  0.0625
+les gens sont des des des     et nous avons         nous avons des de <eos>  0.041666666666666664
+le gouverneur   je   ai         je   ai     je ne sais pas <eos>  0.0588235294117647
+cependant   je me suis allé   je ne ai pas de     je ne ai pas <eos>  0.10000000000000002
+je veux dire que nous avons nous nous avons de la   de la   de la   <eos>  0
+peut être   il y a des milliers de personnes             <eos>  0.15
+ou peut être pas <eos>  0
+peut être que il y a des de de de de <eos>  0
+mon mon ami de la de de la de la <eos>  0.16666666666666669
+j ai grandi à la de de la   de la   de la   de la <eos>  0.04545454545454546
+j ai grandi à la                           et de la <eos>  0.12500000000000003
+j ai grandi à la de de de de de <eos>  0.043478260869565216
+j ai une un de de de la de de la de la de la <eos>  0
+et je me suis demandé de mon histoire de la   de la   de la   de la   de la <eos>  0.0588235294117647
+mais le premier est une chose que je ai fait un un de de     et je pense que c est une chose de la     et je pense que c est une de de la     et                    0.0819672131147541
+c était vraiment                                     <eos>  0.1153846153846154
+mon histoire de vous vous             vous vous vous <eos>  0.0588235294117647
+donc nous avons donc commencé à la <eos>  0
+les années 1970   les     les                               <eos>  0
+les radiologues étaient en fait   et la de de la   de la   de la   de la   de la <eos>  0.11111111111111109
+le premier était la plus de la     de la   de la <eos>  0.13636363636363635
+pour la les de de la                                     <eos>  0.07999999999999999
+les étudiants   les     les     les     les     les     les <eos>  0.0909090909090909
+les gens sont des des des     <eos>  0.25
+mais les la                 de la <eos>  0
+les américains se trouve                                       <eos>  0.06666666666666667
+alors   comment nous avons <eos>  0.12500000000000003
+ils ne ont pas de la   de la   de la   de la   de la   de la   de la   de la   de la <eos>  0.04545454545454546
+  les                                       de la   de la <eos>  0.057142857142857134
+mais il y a des de de de de de de de de de <eos>  0.10526315789473682
+pour la                       de la   de la <eos>  0.07692307692307693
+en moyenne                     de la   de la <eos>  0.0909090909090909
+ils m ont vraiment une histoire de <eos>  0
+les engrenages us de la de la de de la de de la de de <eos>  0.10526315789473682
+la plupart des les     les     les     les     et les     et des autres <eos>  0.1153846153846154
+en fait                       de la <eos>  0.13333333333333333
+les choses ont                       <eos>  0.04545454545454546
+pour les première de de la   de la   de la   de la   de la   de la   de la   de la     les gens   et nous ne le pas <eos>  0.08333333333333333
+les     les gens   les     les gens ne pas pas <eos>  0.15384615384615385
+personne ne finançait pas                                                                                              0.05633802816901409
+je pense que les de de la <eos>  0.10000000000000002
+je suis ai dit                                       <eos>  0.10714285714285714
+je voulais ai demandé de mon histoire de la de de de de de de de de de de de de de de de de de <eos>  0.02941176470588235
+donc   il y a des de de de de de de de de de de de de <eos>  0.03571428571428572
+on connait toutes remodelées <eos>  0
+nous avons des rapports sexuels   et nous avons des de <eos>  0.14285714285714285
+il s agit de la                                                 de la <eos>  0.041666666666666664
+il y a des de de de de de <eos>  0.14285714285714285
+ils ont des à des <eos>  0
+mais ils ne ont pas pas de la <eos>  0.08333333333333333
+qu est ce que <eos>  0
+donc   c est une autre                                                   de la   de la <eos>  0.07142857142857141
+les les gens ont des des de de la     les gens de la <eos>  0.04545454545454546
+les étudiants ont des à la de de la   de la   de la   de la de de la <eos>  0
+mais je ne sais pas pas de ce que je ne <eos>  0
+il est que c est une chose de la <eos>  0
+même siri de la                                           <eos>  0.0625
+les enfants ne pas pas de                                                                             ne pas pas pas de la  0.05263157894736841
+non   les gens   nous ne pouvons pas de de de de de de <eos>  0.05263157894736841
+parfois nous ne avons pas de la <eos>  0.07692307692307693
+nous devons nous que nous nous nous <eos>  0
+les radiologues ont été un des de de <eos>  0.18181818181818182
+mais maintenant   il s est avéré que les gens   et       de la <eos>  0.13043478260869565
+nous ne pouvons pas de                               <eos>  0.11111111111111109
+parfois   nous nous nous nous nous nous pouvons nous nous nous nous <eos>  0.0588235294117647
+aujourd hui   il est                                                                 <eos>  0.04651162790697675
+les les sont des                         <eos>  0.03846153846153846
+nous voulons que les choses   et de la   de la <eos>  0.21052631578947367
+maintenant                                                                                     <eos>  0.01785714285714285
+mais il y a des de de de de de de de de de de de de de de de de de de de de de <eos>  0.07142857142857141
+parfois   il n a pas de de de de de de de de <eos>  0.17647058823529413
+les éducateurs étaient des de de de de de de de de <eos>  0.11764705882352941
+mais les a des de de de de de de de de de de de de de de <eos>  0
+les vous vous pouvez voir les de de la   de la   de la   de la   de la   de la <eos>  0.02702702702702703
+en fait   les gens   ne pas pas pas pas pas pas pas pas <eos>  0.10000000000000002
+les                                                                                             <eos>  0.016393442622950817
+les gens sont des <eos>  0
+ce n est pas que les gens de la <eos>  0.04545454545454546
+nous pouvons nous                                                           nous nous   nous nous nous nous nous   nous nous nous nous avons <eos>  0.03508771929824561
+les étudiants sont des                             de la   de la <eos>  0.03571428571428572
+mais c est une un de de la <eos>  0.18181818181818182
+c n est pas pas <eos>  0.14285714285714285
+il y a des de                                                               <eos>  0.08163265306122448
+les plupart des gens de la           <eos>  0.13333333333333333
+c était été en fait   <eos>  0.25
+et n est pas pas de de de de de de <eos>  0
+nous sommes des de de     nous avons         nous avons des de de <eos>  0.04545454545454546
+les                   <eos>  0
+merci beaucoup <eos>  0
+je voudrais vous montrer quelques unes <eos>  0
+imaginez vous vous vous vous avez un de de la <eos>  0.0909090909090909
+je ai que c est une chose de la   de la     et de la <eos>  0.05263157894736841
+mais en fait   il y a un de de <eos>  0
+ils ont ont des                     et ils ont des <eos>  0.10000000000000002
+je veux vous montrer montrer <eos>  0
+ils sont les       ils sont des     ils sont des <eos>  0.0625
+et ils ont ont des à des milliers de personnes âgées <eos>  0.07692307692307693
+les gens ont                         <eos>  0.047619047619047616
+les deux     les gens   les     les     les     les     les     les     les gens   <eos>  0.060606060606060615
+le mouvement est la de de la <eos>  0
+les choses sont des de de de de de de de la de de de <eos>  0.07692307692307693
+c est une très simple <eos>  0
+vous pouvez voir votre cerveau   vous pouvez vous <eos>  0
+vous pouvez voir la même chose de la   de la <eos>  0.05000000000000001
+votre femme                 <eos>  0.10000000000000002
+en tanzanie                       <eos>  0.07142857142857141
+elle a dit                                           <eos>  0.03846153846153846
+et puis vous vous vous vous <eos>  0
+en gros                                                                                               <eos>  0.018181818181818177
+ok   merci beaucoup <eos>  0.16666666666666669
+je veux parler montrer que c est une chose de la   de la   de la <eos>  0.05263157894736841
+c est la première fois   la <eos>  0.0909090909090909
+et j ai ai pensé que j ai ai rencontrée de la     j ai ai rencontrée de la     j ai ai fait un de de de de <eos>  0.08823529411764706
+c était une un de de de de de la   de la   de la   de la <eos>  0.0909090909090909
+ils ont les à la     et les     ils ont des <eos>  0.0588235294117647
+ils ont été à la des de de de de la   de la <eos>  0.0909090909090909
+ils ont été à des de de de de de <eos>  0
+ils ont les à des de de la de de la de de la de de la <eos>  0.13043478260869565
+j ai pensé   c est une question <eos>  0.12500000000000003
+ce sont des des des <eos>  0
+et je ai décidé de la de de la <eos>  0.10000000000000002
+c est une un de de de la   de la   de la   de la   de la <eos>  0.08695652173913045
+et je vous vous                           <eos>  0.04545454545454546
+et     il n a pas de     <eos>  0.13333333333333333
+en fait   j ai ai une créature   <eos>  0.18181818181818182
+tout ce que vous pouvez être un de de de de de de de de <eos>  0
+nous avons tous les de                                                                             et   et   et des autres  0.036363636363636355
+et j ai ai dit                     <eos>  0.03846153846153846
+et il y a   de                                                             <eos>  0.048780487804878044
+vous vous vous vous vous <eos>  0
+je suis dit           <eos>  0.10000000000000002
+et je vais vous parler de la                               <eos>  0.09677419354838708
+cela se trouve que vous pouvez le faire de la <eos>  0
+je suis ai dit                         <eos>  0.041666666666666664
+je veux dire                 <eos>  0.06666666666666667
+et c était un une de de de de de de <eos>  0.07692307692307693
+je ne vous pas                                                     ne pas pas pas de           <eos>  0.021739130434782608
+je suis une un de de de de <eos>  0
+c est une un de de <eos>  0.11111111111111109
+il a a un   de                   de la <eos>  0.13333333333333333
+elle a été à l école   je ne le pas de la <eos>  0.043478260869565216
+et nous avons avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous nous avons nous nous <eos>  0
+le premier   j ai             <eos>  0.15384615384615385
+c est le philodendron <eos>  0
+il était la                       <eos>  0
+nous avons un une   de               et j ai de la <eos>  0.03846153846153846
+et je suis allée à la                                             et je ai ai <eos>  0.10526315789473682
+et je ai une un de de de de de <eos>  0.0909090909090909
+une un de   nous                                                 de la <eos>  0.07894736842105263
+une fois   une fois   les gens   les     les     les <eos>  0.0588235294117647
+nos vies   nous avons   nous avons   nous avons                                                       nous avons           nous avons     nous  0.016129032258064516
+ce sont des nos ancêtres   nous       nous nous avons nos vies <eos>  0
+ils ont nous des     et nous       nous avons nos vies <eos>  0.0625
+les avons nous               nous ne sommes pas pas <eos>  0
+une fois                                                         <eos>  0.028571428571428577
+c est une                         <eos>  0.05263157894736841
+et je pensais que vous                     <eos>  0.15384615384615385
+une un de de un de de la de de la de de la de de la de de la <eos>  0.07999999999999999
+ils sont les des                                     <eos>  0
+la réponse était la <eos>  0
+les gens sont des des des <eos>  0.0909090909090909
+ils m ont été                   de la <eos>  0.10000000000000002
+il y a un un de de de de de de de de de de de de de de de de de de de de de <eos>  0.03448275862068965
+quand ils ont des dans les pays   et les les     les gens   les gens   les gens   les gens   les gens   les gens   les gens   les gens   les gens de la <eos>  0.022222222222222227
+en fait   les gens   les gens ont été des de de de de de de de la   de la <eos>  0.0909090909090909
+pourquoi ne pouvons pas de                 <eos>  0.10526315789473682
+le premier est est la première de la     et la la     et la de la     et la de la     et la de la   de la <eos>  0.023809523809523808
+c est la première de             <eos>  0.07142857142857141
+a l époque de un un de de de de de de de de de de de de de de de de de de la   de la   de la de de la <eos>  0.06976744186046512
+il a a un une de de de de de de de de de de de de de de de <eos>  0.0909090909090909
+les <eos>  0
+et il y a un de de                                                       de la   de la <eos>  0.10810810810810814
+et c est une                                                                       je vous         <eos>  0.018181818181818177
+c est la première <eos>  0
+et je peux vous parler de ce que je pense que c est une chose <eos>  0.05000000000000001
+et je ai ai demandé que vous                           je vous ai     je vous <eos>  0.03448275862068965
+vous savez quoi il m a demandé <eos>  0
+le premier est est la première de la de la de la de la de la de la de la de la de la <eos>  0.028571428571428577
+les                     <eos>  0.07692307692307693
+qu est ce que <eos>  0
+tout le monde   les gens ne pas pas pas de <eos>  0
+c est la première fois que les gens de la   de la <eos>  0.08333333333333333
+mais les choses   nous nous   nous   <eos>  0.08333333333333333
+les gens ont des <eos>  0
+les éducateurs ont des à des <eos>  0
+les a des de de de de de de <eos>  0
+peut être que nous pouvons faire <eos>  0
+et quand nous avons nous nous avons nous nous avons nous nous avons nous avons nous avons nous avons nous avons nous nous avons nous nous avons nous nous <eos>  0
+le premier est est ce que l on est un                                                                                  0.02352941176470588
+une un de de la   de la   de la   de la <eos>  0
+il s avère que les gens de la <eos>  0
+le premier était vraiment de de de de la   de la   de la   de la   <eos>  0
+il a a dit                                               et je vous vous <eos>  0.02941176470588235
+il a a                                                         <eos>  0.07692307692307693
+ça ne a pas de                 de la <eos>  0.14285714285714285
+ne peut pas pas de               ne pas pas <eos>  0.05263157894736841
+les tribus ne peut pas pas pas <eos>  0
+c est une très simple <eos>  0
+en fait                                                                         de la   de la <eos>  0.06382978723404255
+et il a a les gens de personnes âgées   et les les de   les gens de la <eos>  0.04000000000000001
+ce que nous devons nous que nous avons nous nous pouvons nous   nous pouvons nous     nous     nous     nous     nous     nous     nous     nous     nous     nous   nous nous nous nous nous nous  0.03448275862068965
+si je vous que vous pouvez voir que vous pouvez voir que vous pouvez                 et je vous ai de de de de de <eos>  0.057142857142857134
+mais je je ai ai que je voudrais vous montrer montrer que je vous que je vous que je vous que je pense que nous avons ce que nous ne pouvons pas de <eos>  0
+le premier est est la                                                                                            0.036363636363636355
+c est le pouvoir de la de la   de la   de la <eos>  0.08695652173913045
+comment comment est ce que ça marche <eos>  0
+après avoir cette idée de la de de la   de la   de la   de la   de la     et il y a une chose de de de de la <eos>  0.09615384615384615
+vous vous pouvez voir que vous pouvez vous de vous vous vous <eos>  0.04545454545454546
+vous vous vous vous vous vous vous vous vous vous                             vous pouvez le faire   vous pouvez <eos>  0.057142857142857134
+et vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0
+et cela a besoin de vous pouvez vous pouvez vous vous pouvez vous vous pouvez <eos>  0
+et puis vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0
+vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0
+ce n est pas de                                         <eos>  0.03333333333333333
+en fait                                         <eos>  0.03448275862068965
+c est une un de de de de de de de de de de de de de de <eos>  0
+le lendemain                                   <eos>  0
+je ai pensé que je ai dit   je me suis dit   <eos>  0.12500000000000003
+et je vais parler de la de de de de <eos>  0.07692307692307693
+et je ai ai pensé que je ai ai fait que je ai ai fait un peu <eos>  0.043478260869565216
+mais il y a une chose <eos>  0.14285714285714285
+le projet infinity burial un un de de la <eos>  0
+deuxièmement   il est un un   de la   de la <eos>  0.11764705882352941
+je veux dire   c est une de de la   <eos>  0.09523809523809525
+et je suis une créature   je ne pouvais pas pas <eos>  0.14285714285714285
+je ne sais pas que c est une chose que je ne le pas pas de la <eos>  0.08333333333333333
+et je je je je je je pense que je veux dire que nous avons           nous   <eos>  0.07692307692307693
+et je ai ai commencé à la de de de de de de de de de de de de de de de de de de de de <eos>  0.08333333333333333
+peut être un une histoire <eos>  0
+peut être un une de de de de de de de de la <eos>  0.05263157894736841
+et je ai ai trouvé ça c est une question <eos>  0.2
+je ne suis pas pas de <eos>  0
+c est comme si je ne sais pas de la   <eos>  0.0588235294117647
+ce que vous vous                                                                   <eos>  0.05263157894736841
+et je me suis timide de <eos>  0
+c est mon ami             <eos>  0
+c est une un de de la de la de la de la de la de la de la de la de la de la de la <eos>  0.02777777777777778
+j ai ai que j ai ai à la de de de de de <eos>  0.11111111111111109
+et je ai ai pensé que je ai ai fait que je ai ai fait un peu de <eos>  0.10000000000000002
+il m a dit                     <eos>  0
+les parents ont été à la <eos>  0.2
+je l ai de la   de la   de la <eos>  0.0625
+maintenant   c est la première fois   c est une chose de la     c est une chose de la <eos>  0.12903225806451615
+ce sont des <eos>  0.12500000000000003
+ils sont des des de de de de de de de de de nos vies <eos>  0
+et ne peux pas pas de de de de de de de de de de de de de de de de de de de de de de de <eos>  0.03225806451612903
+nous ne avons pas pas de la de de de de de de de de de de la   de la <eos>  0.13793103448275862
+les gens sont des <eos>  0.11111111111111109
+les le   nous           nous   nous <eos>  0.07142857142857141
+nous avons besoin de la <eos>  0
+nous avons besoin de la     nous           nous                                     nous avons         nous avons         nous avons       nous  0.0144927536231884
+les tempos   les                 <eos>  0.0625
+en fait   ils ne pas pas de la <eos>  0.0909090909090909
+ils ont ils ont ils ont ils <eos>  0
+ils ne sont pas                                       ne pas pas <eos>  0.04000000000000001
+mais il y a beaucoup de gens <eos>  0.12500000000000003
+c est est est est est est <eos>  0
+et je pense que c est que c est que c est que c est que c est que c est que c est que c est que c est une chose   et c est une chose   et c est une chose de la <eos>  0.08333333333333333
+comment les maquettes sont des des     nous avons         nous avons         nous avons         nous avons       nous avons       nous avons       nous nous avons nous nous avons nous nous avons  0.03846153846153846
+je ai ai que les choses que nous avons de la <eos>  0.047619047619047616
+mais si vous voulez voir les gens de la           vous vous vous vous vous vous <eos>  0
+merci <eos>  0
+quand j ai ai ai ai ai ai ai ai ai ai ai vu un de de     j ai ai été   de la <eos>  0.11111111111111109
+je vais parler de la de de la   de la   de la <eos>  0
+et comme sutherland               <eos>  0.13333333333333333
+je ai ai commencé à la <eos>  0.12500000000000003
+quand les ai dit           <eos>  0.07692307692307693
+ce que je voudrais parler de mon histoire   je me suis assise   je me suis assise à la <eos>  0.17857142857142858
+certains de mes assistants étaient                 <eos>  0.11764705882352941
+certains de mes étudiants ne pas pas de la <eos>  0
+et cela m a fait <eos>  0.2857142857142857
+les étudiants sont des des                                               <eos>  0.06666666666666667
+mais ce sont des de de de de   et je suis ai de la de de de de de de de de de de de de de de <eos>  0.09374999999999999
+après avoir des nous nous avons de la   de la   de la   de la   de la   de la   de la   de la   de la   nous nous avons <eos>  0.0588235294117647
+en fait                                                           et je pense que nous avons de <eos>  0.023809523809523808
+j ai ai commencé à la   de la   de la   de la <eos>  0.05000000000000001
+j ai grandi   et                                         et   <eos>  0.028571428571428577
+mon histoire était mon histoire de je me suis allée à la <eos>  0.12500000000000003
+nous avons des des de de de de de de de de de de de <eos>  0
+nous avons besoin de la   de la   de la   de la <eos>  0.060606060606060615
+nous avons des à la     et                                                             de la <eos>  0.07843137254901959
+nous avons des des                         <eos>  0.043478260869565216
+et les est la la <eos>  0
+en quelques années   il y a des milliers de personnes âgées   et des autres <eos>  0.05555555555555554
+et c n est pas pas de <eos>  0.11111111111111109
+elle n a pas de             ne pas pas pas <eos>  0.15
+c était la <eos>  0
+ce sont des des de de la de la <eos>  0.05555555555555554
+ce sont des <eos>  0.10000000000000002
+ce n est pas de                                                                     <eos>  0.07317073170731705
+ce n est pas un seul problème   mais c est un pas de <eos>  0.10526315789473682
+une fois   une femme                   <eos>  0.05000000000000001
+j ai grandi à la                               et de la   <eos>  0.11764705882352941
+il a besoin de ces photos                                                                     et nous avons de la <eos>  0.07575757575757576
+mais ce n est pas de                                                   <eos>  0.07317073170731705
+parce que les                           nous             <eos>  0.04545454545454546
+chaque soir   je                         <eos>  0.047619047619047616
+qu est ce que je voulais faire de la <eos>  0
+comment regardiez je ne le pas de la   <eos>  0
+le problème n est pas pas pas pas pas <eos>  0
+ce que je ne sais pas ce que c est une chose <eos>  0.0588235294117647
+nos collègues de nous ne pouvons pas de de de de de de de de de la <eos>  0.09523809523809525
+en fait                       de la   de la <eos>  0.04000000000000001
+donc   james james                               <eos>  0.10344827586206899
+c est une un de   mais il est un un de de la     mais il est un   de la     mais il n y a pas de <eos>  0.10810810810810814
+ks   cela signifie que les gens ne pas pas de la   de la   de la   de la   de la   de la   de la   de la   de la ne pas pas pas de la <eos>  0.05172413793103449
+donc décalage est ce que c est une un <eos>  0
+mais nous avons besoin de <eos>  0
+et c est ce que je ne sais pas de nous   nous avons fait   <eos>  0.11111111111111109
+c est le que nous avons de la <eos>  0
+nous avons besoin de la     nous avons     nous nous avons nous nous avons nous nous <eos>  0.05263157894736841
+nous devons nous que nous avons         nous         nous   nous nous nous nous nous nous nous nous nous nous nous nous nous <eos>  0.03448275862068965
+en fait   nous nous avons   nous avons nous nous avons nous nous avons <eos>  0.05000000000000001
+merci <eos>  0
+mon esprit est la plus de de la de la de la de la de la   de la   de la   de la <eos>  0.023809523809523808
+aujourd hui   j ai ai commencé à la de de <eos>  0.07142857142857141
+les les sont des des des de                 <eos>  0.05263157894736841
+et les harmoniser ont des des de de de de de de de de de de de de la de de la <eos>  0.041666666666666664
+le premier est un un de de la de la de la de la de la de la <eos>  0.04000000000000001
+et c est ce que je                                         <eos>  0.03333333333333333
+en fait   je suis ai dit   je me suis demandé   je me suis <eos>  0.2
+après bout   les cellules de la de de de de de de de de de de de de de de de de <eos>  0.06896551724137931
+bien sûr   ils ne pas pas de                 ils ne sont pas de la <eos>  0.06666666666666667
+les                                                 de la <eos>  0.08823529411764706
+en fait   il y a un de de de de de de de de de de de de de de de de de <eos>  0.10000000000000002
+et ce que est ce que c est que ce que est ce que l on ne <eos>  0.11764705882352941
+c est une un de de la de la de la de la <eos>  0
+tout le monde   nous                                                     nous avons de la   <eos>  0.06382978723404255
+et il s avère que les gens de la   de la de de la <eos>  0.19047619047619047
+je sais   je sais                         <eos>  0.047619047619047616
+mais le premier de nous pouvons le faire de la     nous <eos>  0
+les systèmes   nous                                                           nous   nous   nous <eos>  0.05263157894736841
+et c est ce pas de la de de la   de la <eos>  0
+donc   la plupart des choses                         de la   de la <eos>  0.07407407407407407
+et c est une un de de la de de la de la de de la de la de de la de la de la de la <eos>  0.02941176470588235
+et cette année est la     et nous avons         de la     et les de   et nous avons des de <eos>  0.03333333333333333
+je veux dire   il y a de de de <eos>  0
+et je voulais le voir les de de la <eos>  0
+et je crois que les gens de la de de la de de la de de la de de la de de la de de la de de la <eos>  0.054054054054054064
+et puis les les de de la les de de la <eos>  0.07142857142857141
+c est une un de de de de de de de la <eos>  0.05555555555555554
+et nous sommes des de de de de de de de de de de de de de de de de de de de de de de de <eos>  0.03225806451612903
+et c est la première de de la de la   de la   de la   de la   de la <eos>  0.03846153846153846
+en tanzanie   je ne le pas                                               <eos>  0.0975609756097561
+mais nous avons tous les de de la de de de de de de de de de de de de de de de de la <eos>  0.0588235294117647
+et maintenant   nous                                                 pas de la   de la   <eos>  0.10000000000000002
+nous avons donc décidé de nous avons nous nous nous nous nous nous <eos>  0
+et la première de est que nous pouvons le faire de la   de la de de la   de la   de la   de la <eos>  0.10000000000000002
+nous avons donc une un de de de de la <eos>  0.07142857142857141
+et puis les choses que nous avons de la de de de de de de de de de de de de de la <eos>  0.03225806451612903
+et ces sont des des des des     les     les     les     les vertébrés <eos>  0.08695652173913045
+les   de la     nous avons                 nous avons des <eos>  0.14285714285714285
+le premier est est un un de de la   de la   de la <eos>  0
+et pour moi       je   ai                                             et je l ai <eos>  0.05000000000000001
+une couverture de la     et je l ai fait un   de la     et la     et la     et la     et la de la <eos>  0.04651162790697675
+quand je vais parler de la     nous avons                                                       nous avons nos vies   nous nous <eos>  0.037037037037037035
+a une nouvelle radicale     nous                                       nous avons des de <eos>  0.057142857142857134
+et la la la fin de la                                           de la <eos>  0.06896551724137931
+et pour moi   c est une chose de           <eos>  0
+et c est une un de de la de de la de de la   de la   de la <eos>  0.04545454545454546
+nous avons donc une un de de de de de de de de de de de de la <eos>  0
+et c est la première de de la de la de la de la <eos>  0.05263157894736841
+il s agit de la                               <eos>  0.08695652173913045
+et maintenant apparaît apparaît doivent fournir la surface de la de de la de de la de de la de la de de la <eos>  0
+et il s avère que les gens <eos>  0.11111111111111109
+les choses peuvent être des de   et les de   et les de   et les de   et les de   et les de   et les de   et les de   et les de   et les de   et les de   et les de  0.030769230769230767
+le premier est est la la de de la     la     et la la     la la de la <eos>  0.07999999999999999
+et c est la même chose   et                                                       <eos>  0.08571428571428572
+en afrique   les     les     les   <eos>  0.07142857142857141
+et les gens sont des des de de la     ils sont des <eos>  0.05263157894736841
+en tanzanie   les     les     les     les     les     les     les     les     les   <eos>  0.05555555555555554
+pour la raison de la                                                 de la   de la   de la <eos>  0.043478260869565216
+merci beaucoup <eos>  0
+je vais vous parler de la     et je ne vous pas de de de de de de de de de de de <eos>  0.07999999999999999
+je pense que les gens           ils ont des <eos>  0.05000000000000001
+et je pense que il y a <eos>  0.2222222222222222
+une un                             de la <eos>  0.08333333333333333
+le premier   nous               <eos>  0
+et la est   nous avons       nous avons <eos>  0
+je pense que c est la première de       <eos>  0.10526315789473682
+alors je vais vous montrer que c est une chose que je pense que c est une chose que je pense que c est une chose de la   de la <eos>  0.05000000000000001
+bien sûr                   <eos>  0.0625
+et si je suis suis un     je ne   pas de       ne pas pas de <eos>  0.15
+je vais vous montrer une un de de la   de la   de la   de la <eos>  0.07142857142857141
+je ne suis pas pas de <eos>  0.2222222222222222
+mais bien sûr   le monde   nous                             de la   de la <eos>  0.10000000000000002
+quand vous regardez le     mais il y a pas de de de de de de <eos>  0.19230769230769232
+c est la même chose   et les     les     les     les     les   <eos>  0.06896551724137931
+et les gens sont des des des de                       <eos>  0.03571428571428572
+les étudiants sont des des     et                               <eos>  0.03333333333333333
+mais ce est est ce que <eos>  0.10000000000000002
+ce que est ce que c est que c est   <eos>  0.06666666666666667
+qu est ce que ils veulent <eos>  0
+ils sont des à des de de la   de la   de la <eos>  0.11764705882352941
+vous vous vous vous vous vous vous vous vous vous <eos>  0
+si vous prenez vos soirées   vous vous vous vous vous <eos>  0.05555555555555554
+vous vous vous vous <eos>  0
+vous vous vous vous vous vous <eos>  0
+vous feriez   vous   vous   vous   <eos>  0
+et cela a été un peu de <eos>  0
+et vous vous vous                                       <eos>  0.03225806451612903
+c est une chose <eos>  0
+en tanzanie   nous                 nous avons des   <eos>  0.12500000000000003
+nous ne avons pas un un de de de de de de de de de de de de de de de de de de la   de la   de la <eos>  0.06666666666666667
+je crois que je suis ai rencontrée   j ai ai une un   et je ai ai fait un   de la     et je ai ai fait un peu de <eos>  0.10000000000000002
+je ne sais pas                   <eos>  0.13333333333333333
+je ne voulais pas pas de de de de de de de de de de de de de de de <eos>  0
+c est phénoménal <eos>  0
+si nous pouvions être que nous avons nous nous pouvons nous   nous nous nous   nous avons de la     nous avons de la     nous nous nous nous nous nous <eos>  0.054054054054054064
+je pense que les gens de la de de la de de la de de la de de la de de la de de la <eos>  0
+js    il y a des autres <eos>  0.2
+le mouvement est la de de la <eos>  0.11111111111111109
+eh bien   je pense que c est une chose <eos>  0.16666666666666669
+c est ce que je ne   pas <eos>  0.11111111111111109
+je suis le plus de de la de de la de de la <eos>  0
+en fait   je suis ai sauté de la   de la <eos>  0.14285714285714285
+et je pense que vous                                                                                 et je vous <eos>  0.037037037037037035
+les n est pas de la de de la <eos>  0.07692307692307693
+les est est la la de de la <eos>  0
+tout le monde   c est une                                         <eos>  0.08333333333333333
+c est comme si on a les de de de <eos>  0
+et je pense que c est que nous avons de la <eos>  0
+les gens disent   ils sont des         <eos>  0
+et si nous avons nous nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous avons nous nous nous nous avons nous nous <eos>  0.025
+mais si           nous ne brûlons pas de       <eos>  0.10000000000000002
+je ai ai commencé à la de de     et je ne ai pas de de de de de de de de <eos>  0.037037037037037035
+je ai ai commencé à ce que je ai ai montrés de la de de de de de de de de <eos>  0
+je suis une créature   je ne vous pas de                 ne pas pas de de <eos>  0.04000000000000001
+si je ne sais pas pas       <eos>  0.07142857142857141
+mais c est           nous       <eos>  0
+les le est la <eos>  0
+ce que est ce que c est     c est ce que c est   <eos>  0.11764705882352941
+les premières dernières années   nous avons nous avons nous avons nous avons nous avons de la de de de de de de de de de de de nous nous avons nous nous avons nous nous avons <eos>  0.08333333333333333
+une autre de de la   de la <eos>  0.11111111111111109
+ils ne sont pas pas pas de la <eos>  0
+je pense que   je   ai                                                 <eos>  0.02272727272727273
+tout le monde   nous                                                           de notre planète <eos>  0.07894736842105263
+c est la même si vous pouvez                                           <eos>  0.03125
+vous pouvez voir que vous pouvez vous vous <eos>  0
+donc donc donc donc donc donc donc <eos>  0
+le problème   nous nous                                         nous         nous avons       nous avons nous nous avons nous nous nous avons nous nous avons nous <eos>  0.018867924528301883
+c est est pas pas                             est ce pas <eos>  0.03846153846153846
+maintenant   les débuts   <eos>  0.09942659075715217
+les                         <eos>  0.05555555555555554
+ça a dit que vous vous vous <eos>  0
+eh bien   nous pouvons nous faire un <eos>  0.0909090909090909
+nous pouvons le faire un peu de <eos>  0.12500000000000003
+on peut peut être que vous pouvez voir que vous pouvez <eos>  0
+mais                               <eos>  0.047619047619047616
+vous ne pouvez pas pas de vous ne peut pas pas <eos>  0.07692307692307693
+vous avez les de de de   de la de de <eos>  0
+vous vous   vous           <eos>  0.08333333333333333
+et ce n est pas de                                 <eos>  0.08333333333333333
+mais vous pouvez voir les de de vous vous vous vous <eos>  0
+comment comment cela fonctionne <eos>  0
+et la première est   les gens                                     <eos>  0.037037037037037035
+laissez moi vous montrer une chose <eos>  0
+les parents sont des                             et je ne peux pas <eos>  0.08695652173913045
+ils m ont été à la     et je pense que la     et je pense que c est <eos>  0.043478260869565216
+c est ce que je ai                 <eos>  0.05000000000000001
+je pense que c est une chose de la <eos>  0.07142857142857141
+si vous vous vous vous vous pouvez voir que vous pouvez vous pouvez voir que vous pouvez   vous pouvez vous pouvez vous <eos>  0.03225806451612903
+en fait           est ce que nous ne pouvons pas de la   <eos>  0.10000000000000002
+c est comme si vous pouvez le cerveau   les gens qui est un de de la <eos>  0.04000000000000001
+donc   la première de                                                                                            0.04615384615384616
+merci <eos>  0
+vous savez   la                           <eos>  0.0588235294117647
+j ai ai les filles                                             <eos>  0.03448275862068965
+elle a été les gens de la <eos>  0.0909090909090909
+son père était         <eos>  0.11111111111111109
+il a été un de de de de de de de de de de de <eos>  0
+mais vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0
+nous avons fait                               nous avons des <eos>  0.043478260869565216
+mais                 <eos>  0.15384615384615385
+ça ne a pas de de <eos>  0.25
+les la                                                                 de la <eos>  0.04545454545454546
+savez vous savez   vous ne vous pas <eos>  0
+les <eos>  0
+maintenant                                                               <eos>  0.0625
+un autre est est un           de la <eos>  0.17647058823529413
+les tempos sont des des des des de   et des <eos>  0.0909090909090909
+mais je pense que                                                       <eos>  0.02941176470588235
+les gens sont des des de de la   de la <eos>  0
+mais ce n est pas pas de <eos>  0
+une autre est est un                                       de la   de la <eos>  0.0588235294117647
+j ai ai décidé de la                                             <eos>  0.0625
+en ce que c est une chose de <eos>  0
+il a été condamné de de la <eos>  0.2
+il était épuisé   et je l ai   et je l ai de la <eos>  0.0625
+mais il a été condamné                   <eos>  0.06666666666666667
+il a dit                                                                     <eos>  0.09523809523809525
+et je me suis à la de de <eos>  0.0909090909090909
+il est la première fois   la   de la <eos>  0.11764705882352941
+il est le la de de la de la de la <eos>  0.07142857142857141
+il est est ce que c est une chose de la   de la   de la   de la     et la de de la     et la de de la     et la de de la     et la de de la      0.0759493670886076
+les gens   les             <eos>  0.0909090909090909
+comment nourrit   ils ont des <eos>  0.11111111111111109
+en particulier de la de de la <eos>  0
+c est le                                                           <eos>  0.02702702702702703
+pourquoi est ce que nous avons                                     nous     <eos>  0.0588235294117647
+il y a une autre exemple   c est une chose de la                           <eos>  0.11764705882352941
+je ne sais pas de de de   mais je ne le pas de de <eos>  0.07142857142857141
+je suis allée à la de de la   de la   de la   de la   de la   de la   de la   de la <eos>  0.03333333333333333
+je pense que c est une histoire de la   de la   de la   de la     et c est une chose de la <eos>  0.11764705882352941
+j ai ai dit   je suis ai <eos>  0.16666666666666669
+pourquoi choisiriez vous vous vous vous <eos>  0
+je ne voulais pas pas pas de faire ça <eos>  0
+les étudiants                                                         <eos>  0.11764705882352941
+c est ce que vous vous   vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <eos>  0.06666666666666667
+il y a des milliers de personnes                         <eos>  0.2
+mais ils ne font pas                                   <eos>  0
+ils ne sont pas de                                 de la <eos>  0.02941176470588235
+il n y a pas de de <eos>  0.3
+et nous avons besoin de la     nous avons             nous avons         nous avons       nous avons nous nous avons des victimes <eos>  0.05555555555555554
+et bien sûr   les gens   les gens   les                                                                                0.016393442622950817
+par exemple   vous avez                               <eos>  0.05000000000000001
+je veux dire   c est que   c est ce que c est <eos>  0.12500000000000003
+vous vous vous vous vous vous             <eos>  0.0588235294117647
+  je ne ai pas de de de de de de <eos>  0.11111111111111109
+c est une très bien   mais vous ne pas pas <eos>  0.08333333333333333
+maintenant   certains de     ne pas pas de la <eos>  0.07142857142857141
+je ne voulais pas pas de de de de de <eos>  0
+ça ne peut pas pas de la   de la   de la   de la <eos>  0.10000000000000002
+ou bien                                                               <eos>  0.026315789473684213
+et c est une                                         <eos>  0.10526315789473682
+donc elle a été de de <eos>  0.14285714285714285
+et les gens peuvent être des de de la   <eos>  0
+et les gens sont des des de de de de de de de <eos>  0.10000000000000002
+merci   merci beaucoup <eos>  0.2
+merci beaucoup <eos>  0
+les radiologues étaient des de de de de la <eos>  0
+c était vraiment                                           <eos>  0.04000000000000001
+en fait   j ai       je me suis à la   <eos>  0.0625
+dg                               de la   de la <eos>  0.09523809523809525
+il est aussi des milliers de la <eos>  0
+et je ne vous pas de                                                             ne pas pas de de de   mais vous ne pas pas <eos>  0.019230769230769235
+nous avons le                                                                           nous   les   <eos>  0.02083333333333333
+c est ce que <eos>  0.16666666666666669
+revenons à la haye <eos>  0
+les     vous vous                   vous vous vous vous vous vous <eos>  0.04545454545454546
+ug    non   non   non <eos>  0.14285714285714285
+c est notre arme                                     <eos>  0.08333333333333333
+mais il y a un un de de de de de de de de de de de <eos>  0.11111111111111109
+la victime         de la   de la   de la <eos>  0.11764705882352941
+voici voici ce qui est <eos>  0
+une un de de de de de de de de de de de de de de de de de <eos>  0
+je ne suis pas de la de de la <eos>  0
+je ne voulais pas pas de ce que je ne le pas pas <eos>  0
+je ne voulais pas de ce que je pense que c est une chose que c est une chose que c est une chose de la     mais il y a un de de de la <eos>  0.1020408163265306
+qui sont les       ils ont   <eos>  0
+comment est ce que ils sont des <eos>  0.0909090909090909
+est ce que c est une problème de la   mais il est un un de de la     mais il n y a pas de de de de de de de de de de <eos>  0.11904761904761905
+on peut nous le faire <eos>  0
+vous savez   nous avons                                                       nous   nous   nous   <eos>  0.05263157894736841
+nous avons avons des     nous avons                                                                           nous avons nous nous avons  0.016129032258064516
+je pense que c est une chose que nous avons fait que nous avons de la   de la   de la <eos>  0.037037037037037035
+je pense que c est une chose que nous avons de la <eos>  0
+le premier est est de la de la <eos>  0
+on a les de de la   de la   de la   de la <eos>  0.07407407407407407
+ils sont des des de de la <eos>  0
+nous ce que nous nous                                                                                 nous          0.03896103896103896
+et je pense que nous avons                                                                                          0.024390243902439022
+quand je suis ai dit                                 <eos>  0.13043478260869565
+les parents <eos>  0
+les radiologues étaient des <eos>  0
+qu est ce que les choses   <eos>  0
+peut être même pas de la   <eos>  0.08333333333333333
+je ne vous pas de de <eos>  0
+je ne veux pas de la                                               les gens <eos>  0.02777777777777778
+maintenant   est ce que ils sont <eos>  0
+je ai ai ai ai ai ai trouvé un   de   de la     et je ai ai <eos>  0.09523809523809525
+je veux dire que c est une chose <eos>  0
+je veux vous parler de la                                                                                          0.03174603174603174
+merci <eos>  0
+je voudrais vous montrer que vous avez un un de de de de de <eos>  0.0625
+je ne voulais pas pas de de de de de de de <eos>  0
+il a a un une de de de de <eos>  0
+son nom est ce que <eos>  0
+les deux dernières années   les     les   de la <eos>  0.10000000000000002
+les il n y a pas de                                   <eos>  0.037037037037037035
+quand il y a un peu de                 <eos>  0.16666666666666669
+il a a été un de de de de de de de de de <eos>  0.0625
+peut être un     ne pas pas <eos>  0
+une fois                                           <eos>  0.06896551724137931
+il a a les gens de personnes qui ont des à des gens <eos>  0.1875
+il a a dit                                 <eos>  0.15999999999999998
+il a a dit de la <eos>  0
+il a a été <eos>  0
+il a a la de <eos>  0
+il a un une de de <eos>  0.11111111111111109
+une un de       de la   de la   de la   de la <eos>  0.09523809523809525
+cette jeune a été de la   de la     et les de de la     et les de   et les de   et des autres   <eos>  0.05000000000000001
+comment les est un un de de la   de la   de la   de la de de la <eos>  0.04000000000000001
+il était vénérable <eos>  0
+il était a été                                       et   était un   <eos>  0.028571428571428577
+c est ce que je ai que je pense que c est une chose <eos>  0
+et il a été de de de de de de de <eos>  0
+c est la première                                                     <eos>  0.07692307692307693
+pour les les gens                                                                   <eos>  0.023809523809523808
+il est le plus de la     de la <eos>  0.0625
+en     les     les gens   les     les     les gens <eos>  0.07142857142857141
+si nous ne pouvons pas                                                                                   <eos>  0.04000000000000001
+et en italie                           de la <eos>  0.06666666666666667
+non     n est pas pas pas pas pas pas de la <eos>  0.2
+ils ne font pas pas <eos>  0
+je suis allée empereur                                     <eos>  0.16666666666666669
+je ai ai pensé que je ai ai fait un de de     je ne le pas <eos>  0.08695652173913045
+qu en ce que je ai ai fait un peu de <eos>  0.14285714285714285
+je suis ai créature à la <eos>  0
+je ne voulais pas pas de de <eos>  0
+mon mon ami de était de la de de de de de de de de de de de <eos>  0
+j ai grandi à la de de de <eos>  0
+nous avons des des de de la     et nous avons des de <eos>  0
+une un de de   de la <eos>  0
+il a aussi la   de la   <eos>  0.0909090909090909
+il y a des de de personnes <eos>  0.23076923076923078
+je me suis demandé                                                             <eos>  0.07692307692307693
+ils ont les à des <eos>  0
+mais il y a un peu de <eos>  0
+en                         de la   <eos>  0.0909090909090909
+ce qui est le pouvoir de la de de la   de la   de la   de la   de la <eos>  0.03846153846153846
+les membres de la <eos>  0.18181818181818182
+il a a un une de <eos>  0.12500000000000003
+il a a les gens de personnes âgées ne pas pas de de de <eos>  0.047619047619047616
+il a a dit                                                 <eos>  0.11428571428571427
+comment est ce que c est <eos>  0
+qu est ce que vous <eos>  0
+je ne sais pas de la de de de de de de de <eos>  0
+c est notre histoire de la     et de la <eos>  0.1153846153846154
+il a les de de de de de de de de de de de de de de de <eos>  0.05000000000000001
+vous pouvez voir les gens de la <eos>  0
+je veux parler de mon histoire de mon histoire de mon histoire de la   de la   de la <eos>  0.15384615384615385
+il a a besoin de de de de de de de de de de de de de de de de de de de de de de de de de <eos>  0.06896551724137931
+il a a dit                                                             vous vous   <eos>  0.03846153846153846
+si vous étiez                                                       <eos>  0.025
+donc eut donc une créature <eos>  0
+il a a un une de de de <eos>  0.07692307692307693
+il a a un une de de de de de de de de de de de de de de de de de de de la <eos>  0.028571428571428577
+et il a a la de                                                     de la <eos>  0.02272727272727273
+il n y a pas de de <eos>  0.2727272727272727
+il a a la                                             <eos>  0.03333333333333333
+et il n a pas de de de de de de de de de de de <eos>  0.05263157894736841
+donc la plupart des gens est la de de la                       de la   de la <eos>  0.10344827586206899
+ils ne peuvent pas de de de de de de <eos>  0.08333333333333333
+ils faisaient                                                   <eos>  0.06451612903225806
+il a a les de de de de de de de de de <eos>  0.14285714285714285
+il a a besoin de personnes qui ont été à la des de de de de de <eos>  0.10000000000000002
+les les     les     les     les     les     les     et les des autres <eos>  0.037037037037037035
+ils ont les à la des de de la <eos>  0
+donc les gens sont des des de de la   de la de de la de de la de de la de de la <eos>  0.06896551724137931
+ils ont été les de de la   de la de de la <eos>  0
+les gens sont des des                                                   <eos>  0.057142857142857134
+pour moi                     <eos>  0.0625
+c est une de de la <eos>  0
+les gens ne pas pas de la <eos>  0
+je ne sais pas de ce que <eos>  0
+il y a                                               <eos>  0.08695652173913045
+les éducateurs enrichit étaient des de de   de la   de la <eos>  0.11111111111111109
+il a a les de de de de de de de <eos>  0.16666666666666669
+ces sont des des des de de de de de de <eos>  0
+donc   mon ami                                                             <eos>  0.047619047619047616
+merci <eos>  0
+quand j ai ai dit                                                     et de la   de la   <eos>  0.05263157894736841
+mais vous vous vous                 <eos>  0.10000000000000002
+ils sont les       ils sont des <eos>  0.08333333333333333
+cependant             ne   pas de la <eos>  0.07142857142857141
+je ai ai commencé à la de de de de de de <eos>  0.11764705882352941
+c est une un de de la de de la de de la <eos>  0.10526315789473682
+et quand notre vice était un   de j ai ai   de la     j ai ai de la <eos>  0.14814814814814814
+parce que les enfants étaient de la   de la   de la   de la   de la   de la   de la   de la   de la   de la   de la <eos>  0.07317073170731705
+c est ce que c est une chose <eos>  0
+pour moi je me suis à la     je je ai ai fait un <eos>  0.0588235294117647
+je veux vous montrer que nous avons nous que nous pouvons nous de nous <eos>  0
+c est une un de de la   de la <eos>  0.2
+et la la fin de nous                                             nous avons des   <eos>  0.06896551724137931
+ce que vous voyez les de de la     les     et les de   et les de de la <eos>  0.04000000000000001
+ce que je veux parler de ce que nous avons         nous                     nous   nous <eos>  0.08108108108108107
+ce fut était la première fois   et                               de la <eos>  0.10000000000000002
+le premier est est la     c est une                                       de la <eos>  0.05000000000000001
+les est est la                                                               de la <eos>  0.07692307692307693
+cette est est ce               la   <eos>  0.07142857142857141
+le premier est la                                                         <eos>  0.11428571428571427
+donc   vous vous un exemple   vous vous vous vous vous vous <eos>  0
+il a a les de de de de de de de de de de de de de de de <eos>  0
+donc   nous nous   nous               nous   nous   nous   <eos>  0.06666666666666667
+nous avons besoin de la de de la <eos>  0.15384615384615385
+mais vous pouvez voir que les gens peuvent être un de de la   de la   de la   de la   de la     et les de   et les de   et des autres <eos>  0.07142857142857141
+donc nous avons donc commencé à l     nous pouvons faire         <eos>  0.0625
+quand je me souviens                                           <eos>  0.03333333333333333
+et les a                             de la <eos>  0.047619047619047616
+ce que je veux parler de la                                                           nous <eos>  0.07317073170731705
+nous avons aussi un une de de la   de la   de la     et c est une <eos>  0.09677419354838708
+ce ne peut pas pas de la   de la   de la   de la     mais ils ne peuvent pas de la   de la <eos>  0.08108108108108107
+donc nous avons une un de de de de de de de la <eos>  0.06666666666666667
+nous avons aussi un une de de de de de la   de la   de la   de la <eos>  0.10714285714285714
+pas nous nous sommes confrontés   nous avons de la   de la   de la <eos>  0.07999999999999999
+et même   une autre de                             de la   <eos>  0.02941176470588235
+j ai donc été à la de de de de de de de de de de de de     et je me suis allée à la <eos>  0.13636363636363635
+les le   est la la   de la <eos>  0
+il y a des de de la <eos>  0.16666666666666669
+donc   il n a pas de           <eos>  0.1875
+les années                               ne pas pas <eos>  0.07407407407407407
+il s avère que les gens de la   de la <eos>  0
+merci beaucoup <eos>  0
+merci <eos>  0
+les                                                             et de la <eos>  0.0588235294117647
+les étudiants étaient                 <eos>  0.08333333333333333
+mais en fait   il y a un un de de de de de de de de <eos>  0.0588235294117647
+sur ce projet   je pense que je ai ai fait un   de     et je pense que c est une chose de la     et je pense que nous avons de <eos>  0.05555555555555554
+je ai commencé à la de de de de de de de de de de de <eos>  0.15789473684210523
+les premières traces   nous                                 et nous <eos>  0.09523809523809525
+j ai grandi à la de de la de de la de la <eos>  0
+on ne nous pas de la     nous avons de la   de la <eos>  0.13333333333333333
+un un de de la de la <eos>  0
+vous pouvez voir les gens de la   de la <eos>  0.15384615384615385
+les étudiants sont des des                                                           <eos>  0.048780487804878044
+aujourd hui   si vous regardez que vous pouvez vous de la <eos>  0
+vous êtes les <eos>  0
+a l on a les de de la de de de <eos>  0
+on a beaucoup de <eos>  0
+c est une un de de <eos>  0
+soyez un <eos>  0
+si l époque   je                                                                                     je l ai  0.03508771929824561
+c est une <eos>  0
+les <eos>  0
+c est une question <eos>  0
+les le <eos>  0
+les masses continentales <eos>  0
+le premier de la les est de la de de la de de la <eos>  0
+j ai ai des lunettes <eos>  0
+ils sont des des de de la <eos>  0
+une république <eos>  0
+si elle a été             <eos>  0.06666666666666667
+a la la                       <eos>  0.0588235294117647
+si elle a dit                           <eos>  0.043478260869565216
+le premier   la             <eos>  0.06666666666666667
+il a a un   de       de la <eos>  0.0909090909090909
+une fois   nous                     <eos>  0.06666666666666667
+après le     nous avons besoin de la <eos>  0.12500000000000003
+les     nous             <eos>  0.16666666666666669
+les années                         <eos>  0.11764705882352941
+les enfants jouent   les     la   de la <eos>  0.07692307692307693
+vous vous avez <eos>  0
+sauf les grimpeurs m a demandé de mon père <eos>  0
+les                   <eos>  0.10000000000000002
+la la est la               <eos>  0.08333333333333333
+pour les                 <eos>  0.10000000000000002
+2 térawattheures   les   <eos>  0.16666666666666669
+les           <eos>  0.12500000000000003
+les la   les gens   les         <eos>  0.08333333333333333
+il s avère que les gens de la de de de <eos>  0
+le premier est la     la     la <eos>  0.15384615384615385
+une fois   une femme                     <eos>  0.07142857142857141
+les résultats             <eos>  0.08333333333333333
+les parents sont des     <eos>  0.11111111111111109
+cette jeune est est                 <eos>  0.16666666666666669
+les     nous         <eos>  0.12500000000000003
+deux ans   ils ont       <eos>  0.11111111111111109
+les le               <eos>  0.18181818181818182
+nous avons donc commencé à la <eos>  0
+en la                         <eos>  0.0625
+les étudiants sont des des de de de de de de <eos>  0
+donc une un de de un peu de la   de la   de la   de la   de la <eos>  0.09523809523809525
+donc nous avons nous nous nous nous nous nous nous avons nous <eos>  0
+par exemple   la     nous                         <eos>  0.04545454545454546
+nous savons que les choses de la <eos>  0
+c est une un   de la     et la la     la <eos>  0.10000000000000002
+donc   une autre     nous       <eos>  0.07692307692307693
+une autre               <eos>  0.10000000000000002
+un autre de <eos>  0
+le premier est la de de la   de la <eos>  0.0588235294117647
+dans les années                                       <eos>  0.07999999999999999
+lg               <eos>  0.2222222222222222
+une un de   et de la <eos>  0
+c est une un de   et je pense que je ai ai fait que je ai de la <eos>  0.09523809523809525
